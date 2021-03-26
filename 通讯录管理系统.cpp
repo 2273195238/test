@@ -30,7 +30,7 @@ int main()
 			empty(&maillist);
 			break;
 		case 0:
-			cout << "欢迎下次使用" << endl;
+			cout << "娆㈣繋涓嬫浣跨敤" << endl;
 			system("pause");
 			return 0;
 			break;
