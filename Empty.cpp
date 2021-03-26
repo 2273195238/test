@@ -2,7 +2,7 @@
 void empty(struct mailList* p)
 {
 	p->num = 0;
-	cout << "通讯录已清空" << endl;
+	cout << "閫氳褰曞凡娓呯┖" << endl;
 	system("pause");
 	system("cls");
 }
